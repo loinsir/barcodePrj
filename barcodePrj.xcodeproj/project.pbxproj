@@ -16,6 +16,7 @@
 		19C8F6BA276F064400AAC831 /* barcodePrjTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C8F6B9276F064400AAC831 /* barcodePrjTests.swift */; };
 		19C8F6C4276F064400AAC831 /* barcodePrjUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C8F6C3276F064400AAC831 /* barcodePrjUITests.swift */; };
 		19C8F6C6276F064400AAC831 /* barcodePrjUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C8F6C5276F064400AAC831 /* barcodePrjUITestsLaunchTests.swift */; };
+		19C8F6D3276F08C500AAC831 /* ReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C8F6D2276F08C500AAC831 /* ReaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		19C8F6BF276F064400AAC831 /* barcodePrjUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = barcodePrjUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		19C8F6C3276F064400AAC831 /* barcodePrjUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = barcodePrjUITests.swift; sourceTree = "<group>"; };
 		19C8F6C5276F064400AAC831 /* barcodePrjUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = barcodePrjUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		19C8F6D2276F08C500AAC831 /* ReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				19C8F6A2276F064300AAC831 /* AppDelegate.swift */,
 				19C8F6A4276F064300AAC831 /* SceneDelegate.swift */,
 				19C8F6A6276F064300AAC831 /* ViewController.swift */,
+				19C8F6D2276F08C500AAC831 /* ReaderView.swift */,
 				19C8F6A8276F064300AAC831 /* Main.storyboard */,
 				19C8F6AB276F064400AAC831 /* Assets.xcassets */,
 				19C8F6AD276F064400AAC831 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				19C8F6A7276F064300AAC831 /* ViewController.swift in Sources */,
+				19C8F6D3276F08C500AAC831 /* ReaderView.swift in Sources */,
 				19C8F6A3276F064300AAC831 /* AppDelegate.swift in Sources */,
 				19C8F6A5276F064300AAC831 /* SceneDelegate.swift in Sources */,
 			);
